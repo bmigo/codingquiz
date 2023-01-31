@@ -70,15 +70,15 @@ var questions = [
     },
 
     {
-        q:"",
-        choices: ["A. ", "B. ", "C. ", "D. "],
-        a:"B. ",
+        q:"___ is a keyword that refers to the object where it is called.",
+        choices: ["A. that", "B. this", "C. those", "D. them"],
+        a:"B. this",
     },
 
     {
-        q:"",
-        choices: ["A. ", "B. ", "C. ", "D. "],
-        a:"B. ",
+        q:"Which of the following is not a looping structure",
+        choices: ["A. For", "B. Do-while", "C. Let", "D. While"],
+        a:"C. Let",
     },
 
 ]
